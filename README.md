@@ -16,3 +16,6 @@
 * 오픈소스 개발 환경 구축하기
 * 오픈소스 서비스 환경 구축하기
 
+## 2일차
+* PostgreSQL / PostGIS
+* GeoServer
